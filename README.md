@@ -1,4 +1,4 @@
-# Pathfinding Visualizer
+# AlgoSpot
 
 An interactive web application built with React to visualize the mechanics of various pathfinding algorithms on a grid. This tool allows users to set start and end points, add walls, and observe how different algorithms find a path from the start to the finish node.
 
